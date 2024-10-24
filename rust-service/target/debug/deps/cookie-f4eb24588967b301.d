@@ -1,0 +1,12 @@
+C:\Users\danie\rust-service\target\debug\deps\libcookie-f4eb24588967b301.rmeta: C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\lib.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\builder.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\parse.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\jar.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\delta.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\draft.rs
+
+C:\Users\danie\rust-service\target\debug\deps\libcookie-f4eb24588967b301.rlib: C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\lib.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\builder.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\parse.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\jar.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\delta.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\draft.rs
+
+C:\Users\danie\rust-service\target\debug\deps\cookie-f4eb24588967b301.d: C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\lib.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\builder.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\parse.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\jar.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\delta.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\draft.rs
+
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\lib.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\builder.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\parse.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\jar.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\delta.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\draft.rs:

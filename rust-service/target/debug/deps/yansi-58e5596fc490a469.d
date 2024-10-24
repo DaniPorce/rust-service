@@ -1,0 +1,12 @@
+C:\Users\danie\rust-service\target\debug\deps\libyansi-58e5596fc490a469.rmeta: C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\lib.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\macros.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\windows.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\paint.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\style.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\color.rs
+
+C:\Users\danie\rust-service\target\debug\deps\libyansi-58e5596fc490a469.rlib: C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\lib.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\macros.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\windows.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\paint.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\style.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\color.rs
+
+C:\Users\danie\rust-service\target\debug\deps\yansi-58e5596fc490a469.d: C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\lib.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\macros.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\windows.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\paint.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\style.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\color.rs
+
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\lib.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\macros.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\windows.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\paint.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\style.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\color.rs:
